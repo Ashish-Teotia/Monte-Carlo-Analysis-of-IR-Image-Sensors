@@ -12,16 +12,20 @@ Careful and comprehensive data preparation ensures analysts trust, understand, a
 ![image](https://user-images.githubusercontent.com/125439405/224496428-203d0a3d-ce9e-4b6c-b21f-634afff8f120.png)
 
 2.Input material Parameter distribution
+
 To confirm and to visualise the input parameters ,the values are visualised via a Python Code.The Python code along with the plots are in Input Parameters Plot Python file.
 
 3.Correlation Analysis
+
 Correlation Analysis is statistical method that is used to discover if there is a relationship between two variables/datasets, and how strong that relationship may be.
 There can be positive correlation,negative correlation or zero correlation.The code and outputs for this is given in Correlation Analysis file.
 
 4.MONTE CARLO ANALYSIS FOR OUTPUT PARAMETERS(Code is available in code.cpp)
+
 After generating records for input parameters,visualising the input parameters,checking statistical correlation of all combinations of input parameters,now Monte Carlo analysis is performed requires assigning multiple values to an uncertain variable to achieve multiple results and then averaging the results to obtain an estimate. So hence assigning values to all the input parameters and getting specific output parameters values for fairly large iterations the probability of various outcomes and more importantly quantum efficiency can be observed.
 
 5.Output plots
+
 Visualize the output plots as given in output file.
 
 
