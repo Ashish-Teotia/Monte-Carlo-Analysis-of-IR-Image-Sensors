@@ -1,1 +1,4 @@
 # Monte-Carlo-Analysis-of-IR-Image-Sensors
+Mercury Cadmium Telluride (HgCdTe) has been the dominant material for fabricating high performance infrared (IR) detectors in the complete useful range of IR radiations for a last few decades due to its tunable band-gap and high sensitivity and for that reason it continues to be the material of choice for future generation of IR detectors also  . However, being fragile and defect prone material, controlling its properties over a large area is a challenging task. Therefore, maintaining a reasonable uniformity in an imaging array of HgCdTe photodiodes is difficult.
+In this project based on data generation using programming ,visualization and interpretation we present a method of analysing the performance non-uniformity of HgCdTe photodiode arrays for infrared imaging applications using programming and visualization techniques. 
+
